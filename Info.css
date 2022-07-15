@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(235, 229, 229, 0.874);
+}
+h1{
+    background-color: rgb(193, 165, 224);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4cm;
+    text-align: center;
+    border-style: dotted;
+    border-right: 3cm;
+    border-left: 3cm;
+    border-radius: 4cm;
+ 
+}
+#A{
+    background-color: rgb(206, 166, 214);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border-radius: 10cm;
+    border-color: cornflowerblue;
+    border-width: 6cm;
+    
+}
+p{
+    font-size: 2cm;
+    text-align: center;
+    background-color: lightpink;
+    border-radius: 4cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    border-radius: 4cm;
+    width: 4cm;
+}
+#a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1cm;
+    text-align: left;
+}
+
